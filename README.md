@@ -68,10 +68,10 @@ analyze business problems, and support informed decision-making.
 
 ### 🛠️ Skills & Tools
 **💻 Technical Skills**
-- Excel (Pivot Tables, Dashboards, Reporting)  
-- Python (Basics for Data Analysis)  
-- Power BI (Interactive Dashboards)  
-- HTML (Basics)  
+- Analytics Tools: Excel (PivotTables, Dashboards).
+- Programming: Python, html
+- Other: Data Cleaning, Data Visualization, Reporting, Business Research.
+ 
 
 **🧑‍💻 Tools & Platforms**
 - Git & GitHub  
