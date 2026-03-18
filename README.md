@@ -14,6 +14,15 @@ Dynamic MBA candidate and B.Com graduate with a strong foundation in business an
 
 ---
 
+### EDUCATION
+
+### SASTRA Deemed University, Thanjavur  –  2025 – Present
+Master of Business Administration (MBA)
+### SRM Institute of Science and Technology, Tiruchirappalli  –  2022 – 2025
+B.Com – Information Systems and Management   GPA: 9.22 / 10
+
+---
+
 ### 💼 Professional Experience
 
 #### 🔹 Audit Assistant Intern  
@@ -64,11 +73,20 @@ Dynamic MBA candidate and B.Com graduate with a strong foundation in business an
 
 ---
 
+### PUBLICATIONS
+### •	Role of Renewable Resources in Sustainable Innovation – Bishop Heber College National Conference, Jan 2025
+•	Mastering Digital Marketing for Conversions – SRM IST Ramapuram National Conference, Mar 2024
+
+---
+
 ### 🛠️ Skills & Tools
-**💻 Technical Skills**
-- Analytics Tools: Excel (PivotTables, Dashboards).
-- Programming: Python, html
-- Other: Data Cleaning, Data Visualization, Reporting, Business Research.
+Analytics & BI: Excel (PivotTables, VLOOKUP, Dashboards), Power BI
+Programming: Python (Pandas, NumPy), HTML
+Audit & Finance: Tally ERP, GST/TDS Compliance, Reconciliation
+Data Skills: Data Cleaning, Visualisation, Business Research
+Dev Tools: Git, VS Code
+Core Competencies: Analytical Thinking, Communication, Problem-Solving, Decision-Making, Collaboration
+
  
 
 **🧑‍💻 Tools & Platforms**
