@@ -10,9 +10,7 @@
 ---
 
 ### 👩‍💼 About Me
-I am an **analytical Business Analytics aspirant** with practical exposure to **auditing, data analysis, and dashboard development**.  
-My academic background in **Information Systems & Management** combined with my **MBA studies** has strengthened my ability to interpret data, 
-analyze business problems, and support informed decision-making.
+Dynamic MBA candidate and B.Com graduate with a strong foundation in business analytics, financial auditing, and data-driven decision-making. Experienced in leveraging Excel, Python, Power BI, and Tally ERP to clean, analyse, and visualise complex datasets. Proven track record through internships at chartered accountancy firms and a virtual data analyst role with Accenture, delivering audit accuracy and actionable business insights. Published researcher and conference presenter with a passion for digital transformation, sustainability, and innovation. Actively seeking opportunities to contribute analytical expertise to forward-looking business operations and strategy.
 
 ---
 
